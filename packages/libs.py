@@ -3,6 +3,7 @@ import pandas
 import json
 import sys
 import os
+import io
 import psycopg2
 import optuna
 import subprocess
